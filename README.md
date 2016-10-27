@@ -1,1 +1,5 @@
 # hobbit
+
+Hobbits first appeared in the novel The Hobbit, whose titular hobbit is the protagonist Bilbo Baggins. The novel The Lord of the Rings includes as major characters the hobbits Frodo Baggins, Samwise Gamgee, Peregrin Took, and Meriadoc Brandybuck, as well as several other minor hobbit characters. Hobbits are also briefly mentioned in The Silmarillion and Unfinished Tales.
+
+According to the author in the prologue to The Lord of the Rings, hobbits are "relatives" of the race of Men. Elsewhere, Tolkien describes Hobbits as a "variety" or separate "branch" of humans. Within the story, hobbits and other races seem aware of the similarities (hence the colloquial terms "Big People" and "Little People" used in Bree). However, within the story, hobbits considered themselves a separate people. At the time of the events in The Lord of the Rings, hobbits lived in the Shire and in Bree in the north west of Middle-earth, though by the end, some had moved out to the Tower Hills and to Gondor and Rohan.
